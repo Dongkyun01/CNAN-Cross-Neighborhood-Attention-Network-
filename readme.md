@@ -93,5 +93,5 @@ python plot.py
 
 ###  참고 논문
 
-* CNAN 모델 구조는 "Knowledge Graph as Pre-Training Corpus for Structural Reasoning via Multi-Hop Linearization" 논문 구조를 참고함
+* CNAN 모델 구조는 "task-oriented collaborative graph embedding using explicit high-order proximity for recommendation" 논문 구조를 참고함
 
